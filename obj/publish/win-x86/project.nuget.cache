@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "zDkn5BLz3euvdwbnazRw+gQFLrIpmTRJMlRdTd/iK8s9++T++zrubSF0a1dU7euP8H1ZdbVfMtcCb/L+KhnXbg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\DNU\\PointsRandomizer\\PointsRandomizer\\PointsRandomizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sotey\\.nuget\\packages\\csvhelper\\18.0.0\\csvhelper.18.0.0.nupkg.sha512",
+    "C:\\Users\\sotey\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\sotey\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.9\\microsoft.netcore.app.runtime.win-x86.3.1.9.nupkg.sha512",
+    "C:\\Users\\sotey\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.9\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.9.nupkg.sha512",
+    "C:\\Users\\sotey\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.9\\microsoft.aspnetcore.app.runtime.win-x86.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\Projects\DNU\PointsRandomizer\PointsRandomizer\bin\Debug\netcoreapp3.1\PointsRandomizer.exe
+D:\Projects\DNU\PointsRandomizer\PointsRandomizer\obj\Debug\netcoreapp3.1\PointsRandomizer.csprojAssemblyReference.cache
+D:\Projects\DNU\PointsRandomizer\PointsRandomizer\obj\Debug\netcoreapp3.1\PointsRandomizer.AssemblyInfoInputs.cache
+D:\Projects\DNU\PointsRandomizer\PointsRandomizer\obj\Debug\netcoreapp3.1\PointsRandomizer.AssemblyInfo.cs
+D:\Projects\DNU\PointsRandomizer\PointsRandomizer\bin\Debug\netcoreapp3.1\PointsRandomizer.deps.json
+D:\Projects\DNU\PointsRandomizer\PointsRandomizer\bin\Debug\netcoreapp3.1\PointsRandomizer.runtimeconfig.json
+D:\Projects\DNU\PointsRandomizer\PointsRandomizer\bin\Debug\netcoreapp3.1\PointsRandomizer.runtimeconfig.dev.json
+D:\Projects\DNU\PointsRandomizer\PointsRandomizer\bin\Debug\netcoreapp3.1\PointsRandomizer.dll
+D:\Projects\DNU\PointsRandomizer\PointsRandomizer\bin\Debug\netcoreapp3.1\PointsRandomizer.pdb
+D:\Projects\DNU\PointsRandomizer\PointsRandomizer\bin\Debug\netcoreapp3.1\CsvHelper.dll
+D:\Projects\DNU\PointsRandomizer\PointsRandomizer\obj\Debug\netcoreapp3.1\PointsRandomizer.csproj.CoreCompileInputs.cache
+D:\Projects\DNU\PointsRandomizer\PointsRandomizer\obj\Debug\netcoreapp3.1\PointsRandomizer.csproj.CopyComplete
+D:\Projects\DNU\PointsRandomizer\PointsRandomizer\obj\Debug\netcoreapp3.1\PointsRandomizer.dll
+D:\Projects\DNU\PointsRandomizer\PointsRandomizer\obj\Debug\netcoreapp3.1\PointsRandomizer.pdb
+D:\Projects\DNU\PointsRandomizer\PointsRandomizer\obj\Debug\netcoreapp3.1\PointsRandomizer.genruntimeconfig.cache
